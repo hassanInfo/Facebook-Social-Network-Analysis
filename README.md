@@ -9,3 +9,6 @@ important and influential nodes.
 The project divided into two tasks, determination of the top-k influential
 nodes and community partition. For that, we can perform them on Facebook 
 Dataset available in this link https://snap.stanford.edu/data/ego-Facebook.html.
+## Papers used
+[1-s2.0-S0378437113011552-main.pdf](https://github.com/hassanInfo/Facebook-Social-Network-Analysis/files/9278203/1-s2.0-S0378437113011552-main.pdf)
+[1-s2.0-S0378437115007554-main.pdf](https://github.com/hassanInfo/Facebook-Social-Network-Analysis/files/9278205/1-s2.0-S0378437115007554-main.pdf)
