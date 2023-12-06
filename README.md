@@ -1,6 +1,6 @@
 <div align="center">
   
-# Facebook Social Network Analysis
+# Facebook Graph Network Analysis
 
 </div>
 
