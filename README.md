@@ -20,10 +20,10 @@ Dataset available in [[2]](#iv-resources).
 
 ## II. Identifying influential nodes
 
-### 1. **TOPSIS** method implementation [[2, 3]](#papers-used)
+### 1. **TOPSIS** method implementation [[2, 3]](#iv-resources)
 
 **TOPSIS**, which stands for Technique for Order of Preference by Similarity to Ideal Solution, is a multi-criteria decision analysis method used to determine the best alternative from a set of alternatives.   It was introduced by Hwang and Yoon in 1981. **TOPSIS** is widely used in fields such as operations research, management, engineering, and other areas where decision-making involves evaluating multiple criteria.
-The **TOPSIS** method can be applied to identify influential nodes within complex networks by utilizing a decision matrix [[2]](#papers-used). In this matrix, the number of rows corresponds to the number of nodes, and four columns represent distinct centrality measures: BC (Betweenness Centrality), CC(Closeness Centrality), EC(Eigenvector Centrality) and DC(Degree Centrality).
+The **TOPSIS** method can be applied to identify influential nodes within complex networks by utilizing a decision matrix [[2]](#iv-resources). In this matrix, the number of rows corresponds to the number of nodes, and four columns represent distinct centrality measures: BC (Betweenness Centrality), CC(Closeness Centrality), EC(Eigenvector Centrality) and DC(Degree Centrality).
 
 ![image](https://github.com/hassanInfo/Facebook_Social_Network_Analysis/assets/85229840/19d1914b-d8ea-455e-b174-2392088daaf7) 
 
