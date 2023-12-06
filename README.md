@@ -55,7 +55,7 @@ To comprehend our network, it's essential to visualize the nodes and edges in a 
 
 ![image](https://github.com/hassanInfo/Facebook_Social_Network_Analysis/assets/85229840/cb50bf28-d986-4c32-809c-084e4cb66288)
 
-### 2.7. Identifying the top k nodes by using **TOPSIS** Method
+### 2.7. Identifying the top k nodes by using **TOPSIS** method
 
 ![image](https://github.com/hassanInfo/Facebook_Social_Network_Analysis/assets/85229840/f5381886-a14e-40fb-9ffc-d0b9e0837947)
 
