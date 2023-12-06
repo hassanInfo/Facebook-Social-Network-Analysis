@@ -15,15 +15,15 @@ and extract groups for various reasons, as well as identifying the most
 important and influential nodes.
 The project divided into two tasks, determination of the top-k influential
 nodes and community partition. For that, we can perform them on Facebook 
-Dataset available in this link https://snap.stanford.edu/data/ego-Facebook.html.
+Dataset available in [[2]](#papers-used).
 
 
 ## II. Identifying influential nodes
 
-### 1. **TOPSIS** method implementation
+### 1. **TOPSIS** method implementation [[2, 3]](#papers-used)
 
 **TOPSIS**, which stands for Technique for Order of Preference by Similarity to Ideal Solution, is a multi-criteria decision analysis method used to determine the best alternative from a set of alternatives.   It was introduced by Hwang and Yoon in 1981. **TOPSIS** is widely used in fields such as operations research, management, engineering, and other areas where decision-making involves evaluating multiple criteria.
-The **TOPSIS** method can be applied to identify influential nodes within complex networks by utilizing a decision matrix [2](#papers-used). In this matrix, the number of rows corresponds to the number of nodes, and four columns represent distinct centrality measures: BC (Betweenness Centrality), CC(Closeness Centrality), EC(Eigenvector Centrality) and DC(Degree Centrality).
+The **TOPSIS** method can be applied to identify influential nodes within complex networks by utilizing a decision matrix [[2]](#papers-used). In this matrix, the number of rows corresponds to the number of nodes, and four columns represent distinct centrality measures: BC (Betweenness Centrality), CC(Closeness Centrality), EC(Eigenvector Centrality) and DC(Degree Centrality).
 
 ![image](https://github.com/hassanInfo/Facebook_Social_Network_Analysis/assets/85229840/19d1914b-d8ea-455e-b174-2392088daaf7) 
 
@@ -105,8 +105,11 @@ In this project phase, we employed the **KMeans** algorithm trained on the decis
 ![image](https://github.com/hassanInfo/Facebook_Social_Network_Analysis/assets/85229840/1673a670-780b-4405-979f-8e8c0f4b61e4)
 
 ## Papers used
-[1] [1-s2.0-S0378437113011552-main.pdf](https://github.com/hassanInfo/Facebook-Social-Network-Analysis/files/9278203/1-s2.0-S0378437113011552-main.pdf)
+[1] [Facebook Dataset](https://snap.stanford.edu/data/ego-Facebook.html)
 
-[2] [1-s2.0-S0378437115007554-main.pdf](https://github.com/hassanInfo/Facebook-Social-Network-Analysis/files/9278205/1-s2.0-S0378437115007554-main.pdf)
+[2] [Du, Yuxian, et al. "A new method of identifying influential nodes in complex networks based on TOPSIS." Physica A: Statistical Mechanics and its Applications 399 (2014): 57-69.](https://github.com/hassanInfo/Facebook-Social-Network-Analysis/files/9278203/1-s2.0-S0378437113011552-main.pdf)
+
+[3] [Hu, Jiantao, et al. "A modified weighted TOPSIS to identify influential nodes in complex networks." Physica A: Statistical Mechanics and its Applications 444 (2016): 73-85.](https://github.com/hassanInfo/Facebook-Social-Network-Analysis/files/9278205/1-s2.0-S0378437115007554-main.pdf)
+
 
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2111.15664-red)](https://arxiv.org/abs/2111.15664)
