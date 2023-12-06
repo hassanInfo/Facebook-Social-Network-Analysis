@@ -15,7 +15,7 @@ and extract groups for various reasons, as well as identifying the most
 important and influential nodes.
 The project divided into two tasks, determination of the top-k influential
 nodes and community partition. For that, we can perform them on Facebook 
-Dataset available in [[2]](#papers-used).
+Dataset available in [[2]](#IV. Resources).
 
 
 ## II. Identifying influential nodes
